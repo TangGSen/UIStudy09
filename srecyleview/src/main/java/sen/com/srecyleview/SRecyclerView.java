@@ -11,6 +11,10 @@ import android.view.ViewConfiguration;
 
 /**
  * Created by Administrator on 2017/8/23.
+ *
+ * 该类
+ * 1处理嵌套RecyclerView
+ * 2在嵌套RecyclerView 快速滑动时，事件没及时处理
  */
 
 public class SRecyclerView extends RecyclerView {
@@ -108,5 +112,15 @@ public class SRecyclerView extends RecyclerView {
             default:
                 return super.onInterceptTouchEvent(e);
         }
+    }
+
+    /**
+     * 这个接口的作用是，不允许父类打断TouchEvent 事件
+     * 那么这里只需要空实现就行，这个SRecyclerView类的跟父类RecyclerView相反的功能
+     * @param disallowIntercept
+     */
+    @Override
+    public void requestDisallowInterceptTouchEvent(boolean disallowIntercept) {
+//        super.requestDisallowInterceptTouchEvent(disallowIntercept);
     }
 }
