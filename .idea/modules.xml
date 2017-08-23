@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/UIStudy09.iml" filepath="$PROJECT_DIR$/UIStudy09.iml" />
+      <module fileurl="file://$PROJECT_DIR$/srecyleview/srecyleview.iml" filepath="$PROJECT_DIR$/srecyleview/srecyleview.iml" />
       <module fileurl="file://$PROJECT_DIR$/svgpathmap/svgpathmap.iml" filepath="$PROJECT_DIR$/svgpathmap/svgpathmap.iml" />
       <module fileurl="file://$PROJECT_DIR$/view3d/view3d.iml" filepath="$PROJECT_DIR$/view3d/view3d.iml" />
     </modules>
