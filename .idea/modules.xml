@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/UIStudy09.iml" filepath="$PROJECT_DIR$/UIStudy09.iml" />
       <module fileurl="file://$PROJECT_DIR$/lsitemtouchelper/lsitemtouchelper.iml" filepath="$PROJECT_DIR$/lsitemtouchelper/lsitemtouchelper.iml" />
       <module fileurl="file://$PROJECT_DIR$/lslayoutmanger/lslayoutmanger.iml" filepath="$PROJECT_DIR$/lslayoutmanger/lslayoutmanger.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sdrawlayout/sdrawlayout.iml" filepath="$PROJECT_DIR$/sdrawlayout/sdrawlayout.iml" />
       <module fileurl="file://$PROJECT_DIR$/srecyleview/srecyleview.iml" filepath="$PROJECT_DIR$/srecyleview/srecyleview.iml" />
       <module fileurl="file://$PROJECT_DIR$/svgpathmap/svgpathmap.iml" filepath="$PROJECT_DIR$/svgpathmap/svgpathmap.iml" />
       <module fileurl="file://$PROJECT_DIR$/view3d/view3d.iml" filepath="$PROJECT_DIR$/view3d/view3d.iml" />
