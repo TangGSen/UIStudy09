@@ -3,9 +3,5 @@
     <color name="colorPrimary">#3F51B5</color>
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="colorAccent">#FF4081</color>
-
-    <color name="colorPage1">#673AB7</color>
-    <color name="colorPage2">#E91E63</color>
-    <color name="colorPage3">#757575</color>
-    <color name="colorWhile">#fff</color>
+    <color name="test">#757575</color>
 </resources>

@@ -1,1 +1,1 @@
-include ':svgpathmap', ':view3d', ':srecyleview', ':lsitemtouchelper', ':lslayoutmanger', ':sdrawlayout'
+include ':svgpathmap', ':view3d', ':srecyleview', ':lsitemtouchelper', ':lslayoutmanger', ':sdrawlayout', ':smeatiledesign'
